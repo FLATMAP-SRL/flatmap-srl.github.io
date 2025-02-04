@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-FLATMAP SRL built the LFL Companion app as a Free app. This SERVICE is provided by FLATMAP SRL at no cost and is intended for use as is.
+FLATMAP SRL built the Quizditch app as a Free app. This SERVICE is provided by FLATMAP SRL at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
